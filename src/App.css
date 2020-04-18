@@ -1,0 +1,24 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+}
+.App h1{
+  margin: 1%;
+}
+.App .tab-content .active{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+}
+
+.App .tab-content .active .card{
+  margin: 1%;
+}
+
